@@ -26,9 +26,9 @@ export default function Home() {
       </Head>
       <Layout>
         <Hero />
+        <Spotlight />
         <Brand />
         <HelpYou />
-        <Spotlight />
         <Competitions />
         <About />
         <Library />
