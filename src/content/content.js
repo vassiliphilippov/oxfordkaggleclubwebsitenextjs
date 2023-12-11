@@ -448,7 +448,7 @@ const applyContent = {
   buttonLink: 'https://forms.gle/Ch1uvcLqQ4FHAhS38',
   applyMethod: [
     {
-      title: 'Apply Method',
+      title: 'Application Method',
       list: [
         {
           item: 'Ensure you meet the prerequisites for our two cohorts – experienced and promising.',
