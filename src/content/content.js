@@ -454,7 +454,7 @@ const applyContent = {
           item: 'Ensure you meet the prerequisites for our two cohorts – experienced and promising.',
         },
         {
-          item: 'Submit your application by [deadline].',
+          item: 'Submit your application by Dec 31, 2023.',
         },
         {
           item: 'Due to limited spots, we will screen applications to shortlist candidates.',
