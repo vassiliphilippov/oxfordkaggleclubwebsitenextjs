@@ -23,6 +23,7 @@ export default function Home() {
         <meta property="og:type" content={seo.type} />
         <meta property="og:image" content={seo.photoPreview} />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Oxford Kaggle Club</title>
       </Head>
       <Layout>
         <Hero />
