@@ -15,10 +15,6 @@ export default function Home() {
   return (
     <>
       <Head>
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MQD662HH"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
         <meta name='title' content={seo.title} />
         <meta name="description" content={seo.desc} />
         <meta name="keywords" content={seo.keywords} />
