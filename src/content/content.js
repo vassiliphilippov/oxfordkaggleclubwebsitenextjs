@@ -27,7 +27,7 @@ const heroContent = {
   buttonText: 'Learn More',
   applyLink: '#helpyou',
   buttonTextTwo: 'Apply Now',
-  learnLink: 'https://oxfordkaggle.typeform.com/to/Yt319adI',
+  learnLink: 'https://oxfordkaggle.typeform.com/to/v2SOj70O',
 };
 
 const brandContent = {
@@ -445,7 +445,7 @@ const libraryContent = {
 const applyContent = {
   title: "Ready to join our next cohort starting February 2024? Here's how to apply",
   buttonText: 'Apply Now',
-  buttonLink: 'https://oxfordkaggle.typeform.com/to/Yt319adI',
+  buttonLink: 'https://oxfordkaggle.typeform.com/to/v2SOj70O',
   applyMethod: [
     {
       title: 'Application Method',
