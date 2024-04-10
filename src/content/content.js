@@ -114,10 +114,10 @@ const competitionContent = {
   title: "Here's a glimpse into some Kaggle Competitions",
   competitions: [
     {
-      img: "/pictures/llm.webp",
+      img: "/pictures/llm.png",
       logo: "/pictures/brands-orgs/llm-logo.webp",
-      title: "LLM - Detect AI Generated Text",
-      desc: "Identify which essay was written by a large language model.",
+      title: "AI Mathematical Olympiad - Progress Prize 1",
+      desc: "Solve national-level math challenges using artificial intelligence models.",
       category: [
         {
           item: "Featured",
@@ -126,29 +126,29 @@ const competitionContent = {
           item: "Code Competition",
         },
       ],
-      teams: "2171 Teams",
-      amount: "$110,000",
+      teams: "514 Teams",
+      amount: "$1,048,576",
       link: "https://www.kaggle.com/competitions/ai-mathematical-olympiad-prize",
     },
     {
-      img: "/pictures/stanford.webp",
+      img: "/pictures/llmrecovery.png",
       logo: "/pictures/brands-orgs/stanford-logo.webp",
-      title: "Stanford Ribonanza RNA Folding",
-      desc: "Create a model that predicts the structures of any RNA molecule.",
+      title: "LLM Prompt Recovery",
+      desc: "Recover the prompt used to transform a given text.",
       category: [
         {
           item: "Research",
         },
       ],
-      teams: "761 Teams",
-      amount: "$100,000",
+      teams: "2058 Teams",
+      amount: "$200,000",
       link: "https://www.kaggle.com/competitions/llm-prompt-recovery",
     },
     {
-      img: "/pictures/optiver.webp",
+      img: "/pictures/homecredit.png",
       logo: "/pictures/brands-orgs/optiver-logo.webp",
-      title: "Optiver - Trading at the Close",
-      desc: "Retrieve the landmark images from the database.",
+      title: "Home Credit - Credit Risk Model Stability",
+      desc: "Create a model measured against feature stability over time",
       category: [
         {
           item: "Featured",
@@ -157,28 +157,28 @@ const competitionContent = {
           item: "Code Competition",
         },
       ],
-      teams: "3964 Teams",
-      amount: "$100,000",
-      link: "https://www.kaggle.com/competitions/pii-detection-removal-from-educational-data",
+      teams: "1763 Teams",
+      amount: "$105,000",
+      link: "https://www.kaggle.com/competitions/home-credit-credit-risk-model-stability",
     },
     {
-      img: "/pictures/nfl.webp",
+      img: "/pictures/datadetection.png",
       logo: "/pictures/brands-orgs/nfl-logo.webp",
-      title: "NFL Big Data Bowl 2024",
-      desc: "Help evaluate tackling tactics and strategy.",
+      title: "The Learning Agency Lab - PII Data Detection",
+      desc: "Develop automated techniques to detect and remove PII from educational data.",
       category: [
         {
           item: "Analytics",
         },
       ],
-      teams: "0 Teams",
-      amount: "$100,000",
-      link: "https://www.kaggle.com/competitions/image-matching-challenge-2024",
+      teams: "1874 Teams",
+      amount: "$60,000",
+      link: "https://www.kaggle.com/competitions/pii-detection-removal-from-educational-data",
     },
     {
-      img: "/pictures/sennet.webp",
+      img: "/pictures/imgmatching.png",
       logo: "/pictures/brands-orgs/sennet-logo.webp",
-      title: "SenNet + HOA - Hacking the Human Vasculature in 3D",
+      title: "Reconstruct 3D scenes from 2D images over six different domains",
       desc: "Segment vasculature in 3D scans of human kidney.",
       category: [
         {
@@ -188,15 +188,15 @@ const competitionContent = {
           item: "Code Competition",
         },
       ],
-      teams: "200 Teams",
-      amount: "$80,000",
-      link: "https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-2",
+      teams: "334 Teams",
+      amount: "$50,000",
+      link: "https://www.kaggle.com/competitions/image-matching-challenge-2024",
     },
     {
-      img: "/pictures/linking.webp",
+      img: "/pictures/agency.png",
       logo: "/pictures/brands-orgs/llm-logo.webp",
-      title: "Linking Writing Processes to Writing Quality",
-      desc: "Use typing behavior to predict essay quality.",
+      title: "Learning Agency Lab - Automated Essay Scoring 2.0",
+      desc: "Improve upon essay scoring algorithms to improve student learning outcomes.",
       category: [
         {
           item: "Featured",
@@ -205,16 +205,16 @@ const competitionContent = {
           item: "Code Competition",
         },
       ],
-      teams: "1292 Teams",
-      amount: "$55,000",
-      link: "https://www.kaggle.com/competitions/leash-BELKA",
+      teams: "276 Teams",
+      amount: "$50,000",
+      link: "https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-2",
     },
     {
-      img: "/pictures/ubc.webp",
+      img: "/pictures/belka.png",
       logo: "/pictures/brands-orgs/ubc-logo.webp",
       title:
-        "UBC Ovarian Cancer Subtype Classification and Outlier Detection (UBC-OCEAN)",
-      desc: "Navigating Ovarian Cancer: Unveiling Common Histotypes and Unearthing Rare Variants.",
+        "Leash Bio - Predict New Medicines with BELKA",
+      desc: "Predict small molecule-protein interactions using the Big Encoded Library for Chemical Assessment (BELKA).",
       category: [
         {
           item: "Research",
@@ -223,15 +223,15 @@ const competitionContent = {
           item: "Code Competition",
         },
       ],
-      teams: "880 Teams",
+      teams: "155 Teams",
       amount: "$50,000",
-      link: "https://www.kaggle.com/competitions/birdclef-2024",
+      link: "https://www.kaggle.com/competitions/leash-BELKA",
     },
     {
-      img: "/pictures/enefit.webp",
+      img: "/pictures/clef.png",
       logo: "/pictures/brands-orgs/enefit-logo.webp",
-      title: "Enefit - Predict Energy Behavior of Prosumers",
-      desc: "Predict Prosumer Energy Patterns and Minimize Imbalance Costs.",
+      title: "BirdCLEF 2024",
+      desc: "Bird species identification from audio, focused on under-studied species in the Western Ghats, a major biodiversity hotspot in India.",
       category: [
         {
           item: "Featured",
@@ -240,9 +240,9 @@ const competitionContent = {
           item: "Code Competition",
         },
       ],
-      teams: "801 Teams",
+      teams: "121 Teams",
       amount: "$50,000",
-      link: "https://www.kaggle.com/competitions/data-assistants-with-gemma",
+      link: "https://www.kaggle.com/competitions/birdclef-2024",
     },
   ],
 };
