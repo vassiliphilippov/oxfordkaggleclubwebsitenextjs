@@ -1,0 +1,16 @@
+/* Developer Info */
+
+Name: Asiful Alam Fahim
+Role: Software Engineer
+Twitter: @callme_fahim
+Site: https://asifulalam.me
+
+
+/* Site Info */
+        
+Last update: 2023/12/10
+Title: Oxford Kaggle Club.
+type: Educational Website.
+Stacks: HTML5, CSS3, and JavaScript.
+Frameworks: Nextjs, and Tailwindcss.
+Packages: flowbite-react, react-icons, and react-reveal.
