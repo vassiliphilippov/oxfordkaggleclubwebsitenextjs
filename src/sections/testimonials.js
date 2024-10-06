@@ -6,7 +6,7 @@ const Testimonials = () => {
         <div class="w-full">
           <div class="text-center max-w-xl mx-auto">
             <h1 class="text-5xl md:text-5xl font-bold mb-5 text-gray-600">What people <br />are saying.</h1>
-            <h3 class="text-xl mb-5 font-light">Here are some testimonials by our users....</h3>
+            <h3 class="text-xl mb-5 font-light">Here are some testimonials by our club members....</h3>
             <div class="text-center mb-10">
               <span class="inline-block w-1 h-1 rounded-full bg-indigo-500 ml-1"></span>
               <span class="inline-block w-3 h-1 rounded-full bg-indigo-500 ml-1"></span>

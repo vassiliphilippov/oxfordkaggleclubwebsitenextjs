@@ -122,7 +122,7 @@ const spotLightContent = {
 
 const spotLightContent2 = {
   img: "/pictures/spotlight2.png",
-  title: "Oxford Kaggle Club Triumphs: LLM 20 Questions Competition Win!",
+  title: "Oxford Kaggle Club team won a gold medal and $10K prize in competition",
   desc: "Our club achieved victory in the prestigious <b>LLM 20 Questions competition</b>, utilizing cutting-edge AI techniques like <b>RAG systems</b> and <b>Mistral LLM</b>. Competing against <b>832 teams</b> and <b>963 participants</b> globally, we demonstrated the power of collaboration and innovation in the AI/ML space. Be part of Oxford's leading AI/ML community and tackle real-world challenges with us!",
   desctwo: "Kaggle competitions:",
   list: [
