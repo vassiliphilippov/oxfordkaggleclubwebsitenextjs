@@ -19,7 +19,7 @@ const Testimonials = () => {
             <div class="px-3 w-full flex flex-wrap gap-1">
                 {
                     testimonials.reviews.map((test,index)=>{
-                     return <div key={index} class="w-[33%] rounded-lg bg-white border border-gray-200 p-5 text-gray-800 font-light mb-6">
+                     return <div key={index} class="md:w-[33%] rounded-lg bg-white border border-gray-200 p-5 text-gray-800 font-light mb-6">
                      <div class="w-full flex mb-4 items-center">
                        <div class="flex-grow">
                          <h6 class="font-bold text-sm uppercase text-gray-600">
